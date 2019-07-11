@@ -4,5 +4,6 @@ Patatap Clone
 
     Javascript/Paper.js/Howler.js project
 
-![Circles](https://alanv73.github.io/img/circles.png)
+![circles](https://alanv73.github.io/img/circles.png)
 
+https://alanv73.github.io/img/circles.png
